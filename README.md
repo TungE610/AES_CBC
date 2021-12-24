@@ -1,4 +1,5 @@
-## AES_128_CBC
+# AES_128_CBC
+## Bui Danh Tung 20200568
 :point_right:Ngôn ngữ lập trình : Python <br>
 <br>
 :point_right: Thư viện sử dụng : crypto/pycryptodome, binascii, base64
