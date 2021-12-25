@@ -8,7 +8,7 @@ from Crypto.Util.Padding import pad, unpad
 # Sinh ngau nhien IV
 iv = secrets.token_hex(16)
 key = "3e83b13d99bf0de6c6bde5ac5ca4ae68"
-pText = "mynameisbuidanhtungdeptraivcl"
+pText = "mynameisbuidanhtungdeptrai"
 
 print(f"IV: {iv}")
 print(f"Key: {key}")
